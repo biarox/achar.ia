@@ -11,9 +11,13 @@
 </p>
 <p>
   
+## O Projeto
+
+<p>Este projeto desenvolvido na <a href="https://www.alura.com.br/imersao-ia-google-gemini-ii">Imersão IA 2025 da Alura</a>  com o Google Gemini com o objetivo de conectar pessoas com os mesmos assuntos de interesse.</p>
+
 ## Achar.IA
 
-<p>O Achar.IA é um projeto desenvolvido na Imersão IA 2025 da Alura com o Google Gemini com o objetivo de conectar pessoas com os mesmos assuntos de interesse.</p>
+A Achar.IA te ajuda a encontrar perfis que compartilham os mesmos interesses que o seu, utilizando Agentes de IA para encontrar conexões relevantes e nichadas de forma eficiente.
 
 ## Apresentação
 
@@ -68,5 +72,5 @@ Adicionalmente:
 <a href="https://beatrizs-organization-4.gitbook.io/achar.ia/">link do Gitbook</a>
 
 
-<p><img src="https://media.tenor.com/0-M-_QQY4eQAAAAj/pixel-heart.gif" width="15">
+<p><img src="https://media.tenor.com/0-M-_QQY4eQAAAAj/pixel-heart.gif" width="20">
 </p>
