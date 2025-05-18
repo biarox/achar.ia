@@ -31,16 +31,16 @@ Fluxxo do usuário dentro do Achar.IA
 
 ## Ferramentas utilizadas
 
-• Google Gemini
-• Google Colab
-• Google AI Studio
-• Excalidraw
-• Figma
-• Bolt
-• Github
-Adicionalmente:
-• Jitter (para animação do logo)
-• Capcut (para edição do vídeo)
+<p>• Google Gemini</p>
+<p>• Google Colab</p>
+<p>• Google AI Studio</p>
+<p>• Excalidraw</p>
+<p>• Figma</p>
+<p>• Bolt</p>
+<p>• Github</p>
+<p>Adicionalmente:</p>
+<p>• Jitter (para animação do logo)</p>
+<p>• Capcut (para edição do vídeo)</p>
 
 ## Logotipo
 
@@ -52,6 +52,9 @@ Adicionalmente:
 
 <p align="center">
 <img src="https://www.gitbook.com/cdn-cgi/image/dpr=2,width=760,onerror=redirect,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FCeFymnfuswlln8D9SYQD%252Fuploads%252FzZOog8ay6pAdN91DMHJQ%252Fprototipo.gif%3Falt%3Dmedia%26token%3D21a0509b-8cf3-4a60-b79c-b80513dcc31e" width="500">
+</p>
+<p>As instruções pra ver o protótipo funcionando estão na
+<a href="https://beatrizs-organization-4.gitbook.io/achar.ia/">documentação</a>
 </p>
 
 ## MVP
@@ -70,7 +73,7 @@ Adicionalmente:
 
 <p>Códigos, preocessos utilizados, links do projeto e detalhes estão neste
 <a href="https://beatrizs-organization-4.gitbook.io/achar.ia/">link do Gitbook</a>
-
+</p>
 
 <p><img src="https://media.tenor.com/0-M-_QQY4eQAAAAj/pixel-heart.gif" width="20">
 </p>
