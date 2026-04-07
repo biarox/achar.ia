@@ -26,7 +26,7 @@ A Achar.IA te ajuda a encontrar perfis que compartilham os mesmos interesses que
  
 ## Fluxo de navegação
 
-Fluxxo do usuário dentro do Achar.IA
+Fluxo do usuário dentro do Achar.IA
  <img src="https://beatrizs-organization-4.gitbook.io/~gitbook/image?url=https%3A%2F%2F490387620-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FCeFymnfuswlln8D9SYQD%252Fuploads%252FbQKh0J1SyHLt9GwqjMNb%252Ffluxo.png%3Falt%3Dmedia%26token%3D07d1ae7d-f821-48c0-a6a4-abdcacf7151a&width=400&dpr=3&quality=100&sign=1fef9763&sv=2">
 
 ## Ferramentas utilizadas
